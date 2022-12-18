@@ -13,7 +13,7 @@ const debounce = (callbackFunction, delay = 1000) => {
 };
 
 var conf = {
-    MY_KEY : '752e2a6c',
+    MY_KEY : '12345uuu',
     SECRET_KEY : '456gyhju',
     KEY_2 : 'sadf56k1'
    };
