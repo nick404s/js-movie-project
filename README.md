@@ -1,0 +1,1 @@
+ # A JS Web App to compare movies from IMDB
